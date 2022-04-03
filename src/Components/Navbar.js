@@ -31,7 +31,15 @@ function Navbar() {
             src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Netflix-avatar.png"
             alt="AVATAR"
             />
-            
+            <div className="banner-extra">
+               <a href="https://github.com/">Home </a>
+               <a href="https://github.com/">Movies </a>
+               <a href="https://github.com/">Television </a>
+               <a href="https://github.com/">Originals </a>
+               <a href="https://github.com/">Popular </a>
+               <a href="https://github.com/">List </a>
+                
+           </div>
         </div>
     )
 }

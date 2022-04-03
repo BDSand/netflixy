@@ -17,7 +17,7 @@
     object-fit: contain;
     width: 90px;
     position: fixed;
-    left: 20px;
+    left: 40px;
 }
 .nav__avatar{
     width: 30px;
@@ -25,4 +25,27 @@
     position: fixed;
     right: 20px;
 
+}
+.banner-extra{
+    color:rgb(255, 255, 255);
+    font-size: 17px;
+    display:block;
+    word-spacing: 20px;
+   margin-left: 160px;
+    padding-left: 10px;
+    opacity: 0.9;
+    transition: 0.3s;
+    text-decoration: none;
+    
+}
+a:hover{
+    opacity:1;
+    text-decoration: none;
+}
+a:link{
+    text-decoration:none;
+    
+}
+a:visited{
+    color:rgb(255, 255, 255);
 }
